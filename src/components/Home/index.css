@@ -1,0 +1,24 @@
+.home-image {
+  height: 200px;
+  width: 200px;
+}
+.home-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+.home-text {
+  font-size: 30px;
+  font-weight: 600;
+}
+.home-text-dr {
+  font-size: 30px;
+  font-weight: 600;
+  color: #fff;
+}
+.dark-container {
+  background-color: #000;
+  height: 100vh;
+}

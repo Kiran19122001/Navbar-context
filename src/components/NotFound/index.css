@@ -1,0 +1,14 @@
+.nf-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+.nf-img {
+  height: 300px;
+  width: 300px;
+}
+.dark-text {
+  color: #fff;
+}
